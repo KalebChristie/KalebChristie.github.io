@@ -1,2 +1,2 @@
 #H1 Overview
-Here is a shory paragraph talking about myself.
+Here is a short paragraph talking about myself.

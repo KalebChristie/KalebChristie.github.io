@@ -6,15 +6,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# Experence
-
-Shape 
+# Experience
 
 ​​Love Crust Pizza: Food Truck Cashier ​​2021-2023​ 
 
 High pressure fast pase envirment
 
-Interacting with Customers in professional manor 
+Interacting with Customers in professional manner
 
 Worked with team and help fill other rolls on the fly as needed 
 

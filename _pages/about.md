@@ -48,3 +48,5 @@ Communication/teamwork
 
 # Projects
 https://github.com/KalebChristie/ToDoList
+
+Above is a to do list application, it links to the repository that has all the files and description

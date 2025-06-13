@@ -50,3 +50,15 @@ Communication/teamwork
 https://github.com/KalebChristie/ToDoList
 
 Above is a to do list application, it links to the repository that has all the files and description
+
+https://github.com/KalebChristie/Welcome-To
+
+Above is a link to the welcome to game board and card set up!
+
+https://github.com/KalebChristie/Calculator
+
+Above is a link to the calculator.
+
+https://github.com/KalebChristie/WAR
+
+And here is a fully functioning coded game of war!
